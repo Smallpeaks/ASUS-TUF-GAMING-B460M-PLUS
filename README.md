@@ -91,8 +91,10 @@ I won't talk about them one by one
 | IOSkywalkFamily                       |
 | AirportItlwm-15.5Sequoia.kext         | 
 | IntelBTPatcher.kext                   | 
-| IntelBluetoothFirmware.kext           | 
-| BlueToolFixup.kext                    | 
+| IntelBluetoothFirmware.kext           |
+| BlueToolFixup.kext                    |
+| AMFIPass.kext                         |
+
 
 ### BIOS Setup Reference:
 
