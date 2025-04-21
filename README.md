@@ -1,19 +1,19 @@
 ### ASUS-TUF-GAMING-B460M-PLUS-RX590
 ### The overall configuration list of my black Apple host is as follows:
 
-| Part Type   | Part Model 
-|-------------|----------------------------------------------|
-| Opencore: 1.0.5                                            |
-| Version: macOS Sequoia15.4                                 |
-| Motherboard: ASUS TUF Gaming B460M PLUS                    |
-| Hard disk: Coiorful CN600 1T M2                            |
-| Graphics: RX590 8G                                         |
-| CPU: Intel i7 10700                                        |
-| Memory: ADATA 2933 16G*2 DDR4                              |
-| Wireless network card: ntel AX210                          |
-| Radiator: Kaneda 9cm six-tube copper fan                   |
-| Power supply: 700W for the journey                         |
-| Chassis: LOVINGCOOL Ocean View Room                        |
+| Part Type     | Part Model 
+|---------------|----------------------------------------------|
+| Opencore      |  1.0.5                                       |
+| Version       |  macOS Sequoia15.4                           |
+| Motherboard   |  ASUS TUF Gaming B460M PLUS                  |
+| Hard disk     |  Coiorful CN600 1T M2                        |
+| Graphics      |  RX590 8G                                    |
+| CPU           |  Intel i7 10700                              |
+| Memory        |  ADATA 2933 16G*2 DDR4                       |
+| Wireless      |  network card: ntel AX210                    |
+| Radiator      |  Kaneda 9cm six-tube copper fan              |
+| Power supply  |  700W for the journey                        |
+| Chassis       |  LOVINGCOOL Ocean View Room                  |
 
 
 Support the full range of CPU models,  i5-10400, i7-10700, i9-10900K, i5-10200H, etc
@@ -124,4 +124,4 @@ Boot \ Secure Boot \ OS Type: Other OS
 
 Boot \ Boot Configuration \ Fast Boot: Enabled
 
-If you have any other questions, please add Q group: 738882434
+若有其他问题请加Q群： 738882434
