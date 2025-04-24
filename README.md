@@ -4,7 +4,7 @@
 | Part Type     | Part Model 
 |---------------|----------------------------------------------|
 | Opencore      |  1.0.5                                       |
-| Version       |  macOS Sequoia15.4                           |
+| Version       |  macOS Sequoia15.5Beta3                      |
 | Motherboard   |  ASUS TUF Gaming B460M PLUS                  |
 | Hard disk     |  Coiorful CN600 1T M2                        |
 | Graphics      |  RX590 8G                                    |
@@ -47,12 +47,13 @@ I won't talk about them one by one
 ### ACPI
 
 | ACPIs                                    |
-|------------------------------------------|
-|  SSDT-AWAC-ASUS-B460M-PLUS               |
-|  SSDT-BIOS-ASUS-B460M-PLUS               |
-|  SSDT-PLUG-ASUS-B460M-PLUS               |
-|  SSDT-RMNE-ASUS-B460M-PLUS               |
-|  SSDT-RHUB-ASUS-B460M-PLUS               |
+|--------------------------|
+|  SSDT-AWAC               |
+|  SSDT-Drop               |
+|  SSDT-PLUG               |
+|  SSDT-EC                 |
+|  SSDT-RHUB               |
+|  SSDT-USBX               |  
 
 
 ### Drivers
@@ -76,15 +77,15 @@ I won't talk about them one by one
 | SMCProcessor.kext                     |
 | SMCSuperIO.kext                       |
 | AppleALC.kext                         |
-| AppleMCEReporterDisabler.kext         |
+| CPUFriend.kext                        |
 | RestrictEvents.kext                   |
-| SMCRadeonGPU.kext                     |
+| XHCI-unsupported.kext                 |
 | RadeonSensor.kext                     |
 | NVMeFix.kext                          |
 | FeatureUnlock.kext                    | 
 | HibernationFixup.kext                 | 
-| RTCMemoryFixup.kext                   | 
-| LucyRTL8125Ethernet.kext              | 
+| cpuTscSync.kext                       | 
+| IntelMausi.kext                       | 
 | USBPorts.kext                         | 
 | USBWakeFixup.kext                     | 
 | IO80211FamilyLegacy.kext              | 
@@ -94,6 +95,7 @@ I won't talk about them one by one
 | IntelBluetoothFirmware.kext           |
 | BlueToolFixup.kext                    |
 | AMFIPass.kext                         |
+| RadeonBoost.kext                      |
 
 
 ### BIOS Setup Reference:
